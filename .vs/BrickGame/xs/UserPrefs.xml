@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{89D3E493-91F6-6D12-6A78-C05CCFD9791A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/time.cs">
+    <Files>
+      <File FileName="Assets/Scripts/boxMove.cs" Line="14" Column="17" />
+      <File FileName="Assets/Scripts/food.cs" Line="20" Column="29" />
+      <File FileName="Assets/Scripts/boxController.cs" Line="22" Column="33" />
+      <File FileName="Assets/Scripts/foodControl.cs" Line="53" Column="1" />
+      <File FileName="Assets/Scripts/JoyStick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/stick.cs" Line="21" Column="49" />
+      <File FileName="Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/time.cs" Line="48" Column="1" />
+      <File FileName="Assets/Scripts/myStick.cs" Line="24" Column="6" />
+      <File FileName="Assets/Scripts/Joybutton.cs" Line="4" Column="31" />
+      <File FileName="Assets/Scripts/Joy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Score.cs" Line="26" Column="32" />
+      <File FileName="Assets/Scripts/character.cs" Line="205" Column="1" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="53" Column="1" />
+      <File FileName="Assets/Scripts/DestroyByConact.cs" Line="41" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BrickGame PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
